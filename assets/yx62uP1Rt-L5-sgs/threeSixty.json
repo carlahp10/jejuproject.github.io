@@ -1,0 +1,78 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "6KwUcOwwKQX",
+  "title": "Household Waste Jeju_final",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Information"
+    },
+    {
+      "title": "Quiz"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Iejir2Cm6N",
+      "title": "Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6QyHiY9Iroz",
+      "title": "Select trash can",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6NvAVXCkwef",
+      "title": "Information",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6hbKwZTRnyf",
+      "title": "Food Waste",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5WbOd640FGl",
+      "title": "General waste",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6fBUwnOYGvZ",
+      "title": "Recyclable Waste",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6FRmOK27dde",
+      "title": "Quiz Introduction",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5kTQS5r9wZL",
+      "title": "Pick a visitor",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6G794746gn3",
+      "title": "Quiz",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5sknP7vujDr",
+      "title": "Completed",
+      "scene_index": "3.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1540,
+    "height": 838
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
